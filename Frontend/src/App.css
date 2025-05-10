@@ -1,0 +1,78 @@
+.boxParant{
+    height: 400px;
+    width: 300px;
+    background-color: white;
+   
+
+}
+.boxChildOne{
+    height: 300px;
+    width:300px;
+    
+
+
+}
+.boxChildTwo{
+    height: 100px;
+    width: 300px;
+}
+
+#SectionBottomBox1{
+    height:300px;
+    width:500px;
+    margin-bottom:100px;
+    color:white;
+    margin-top:50px;
+    margin-left:110px;
+    background-color: rgb(124, 122, 122);
+    border-radius:20px;
+
+}
+#SectionBottomBox2{
+    height:300px;
+    width:500px;
+    color:white;
+    margin-top:50px;
+    margin-bottom:100px;
+    margin-right: 80;
+    background-color: rgb(132, 129, 129);;
+    border-radius:20px;
+
+}
+.bottomHeading{
+    font-size:70px;
+    text-align:center;
+}
+.hr:hover{
+    color:rgb(91, 74, 244);
+}
+.bottomImage{
+    position:relative;
+
+}
+.topImage{
+    position:absolute;
+    margin-top:-150px;
+    margin-left:-150px;
+
+
+}
+.card:hover {
+    transform: scale(1.05);
+    transition: all 0.3s ease;
+  }
+#sectionTwoCard{
+    height:600px;
+    width:300px;
+    background-color: rgb(177, 179, 180);
+
+}
+#sectionTwoCardOne{
+    height:300px;
+    width:300px;
+   
+}
+#sectionTwoCardTwo{
+    height:300px;
+    width:300px;
+}
